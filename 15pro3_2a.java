@@ -36,12 +36,10 @@ class BigCircle{
 	}
 }
 
-
 class Area{
 	private int width;
 	private int depth;
 }
-
 
 class Apro {
 	public static void main(String[] args) {
